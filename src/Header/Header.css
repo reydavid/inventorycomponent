@@ -1,0 +1,15 @@
+h3 {
+    color:blue;
+}
+
+.Header {
+    border: solid 1px black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+div {
+    border: solid 1px black;
+    flex: 1;
+}
